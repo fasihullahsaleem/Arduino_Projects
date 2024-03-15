@@ -1,0 +1,1 @@
+Firstly Install the given TinyGPS library and then adjust the baut rate off the code accordding to your GPS module default value. As my ublox neo 6m support 5v. You should give the highest supported volts for better connectivity as My GPS takes only 2 seconds and starts giving the location  ALSO IT HEAVILY DEPENDS ON YOUR LOCATION.
